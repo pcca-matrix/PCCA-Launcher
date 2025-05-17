@@ -35,6 +35,13 @@ Its flexibility allows integration beyond the original intended setup.
   - Combine with animation sequences for a personalized look and feel  
 - And much more...
 
+## Installation
+
+1. Extract the GitHub archive into a directory of your choice.
+
+2. Download the required runtime package: [Library](<https://github.com/pcca-matrix/PCCA-Launcher/releases/download/1.0.0/_internal.zip>)  
+   Then extract it into the same directory where the launcher was unpacked.
+
 ## Planned Features
 
 - Discord Rich Presence support  
